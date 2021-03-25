@@ -1,6 +1,7 @@
 # OpenGLScene
 A scene made using GLUT in C++
-To execute the code use the makefile
+The project is based on triangles mesh which are used for creating geometries such as cube, sphere, cylinder, etc.
+The car and the scenario only uses these figures.
 
 # View of the car
 ![](car.gif)
